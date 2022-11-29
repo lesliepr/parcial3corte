@@ -1,0 +1,2 @@
+# parcial3corte
+turismo
